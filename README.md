@@ -4,7 +4,7 @@
    the Proform inddor bike.
    Usable with any inddor bike if calibrated, mine is a revamped version of Proform TDF 1.0 where the original console and mainboard were faulty and discarded.
    
-   A rather non-standard H-Bridge (MX1508) is used to control the resistance motor, adapt the changeResistance function to your needs (9V) and calibrate PID variables.
+   A rather non-standard H-Bridge (MX1508) is used to control the resistance motor, adapt the changeResistance function to your needs and calibrate PID variables.
 
    I'll be adding code to control incline when I get a suitable SSR and relays.
 
